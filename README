@@ -1,0 +1,27 @@
+This is Perl module DBIx::Skinny::Cache.
+
+INSTALLATION
+
+DBIx::Skinny::Cache installation is straightforward. If your CPAN shell is set up,
+you should just be able to do
+
+    % cpan DBIx::Skinny::Cache
+
+Download it, unpack it, then build it as per the usual:
+
+    % perl Makefile.PL
+    % make && make test
+
+Then install it:
+
+    % make install
+
+DOCUMENTATION
+
+DBIx::Skinny::Cache documentation is available as in POD. So you can do:
+
+    % perldoc DBIx::Skinny::Cache
+
+to read the documentation online with your favorite pager.
+
+Atsushi Kobayashi
